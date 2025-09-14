@@ -37,6 +37,7 @@ python simulation.py
 
 # 3. Run analysis reports
 python analysis.py
-```
+
 # 4. (Optional) Run automated tests
 pytest -q
+```
